@@ -4,7 +4,7 @@
 
 你可以在下列線上書店購買這本電子書：
 
-- [Google Play 圖書](https://play.google.com/store/books/details/Victor_Lin_股票投機筆記精華?id=Hg-dDAAAQBAJ)
+- [Google Play 圖書](https://play.google.com/store/books/details?id=Hg-dDAAAQBAJ)
 - [讀墨 Readmoo](https://readmoo.com/book/210095034000101)
 - [Leanpub](https://leanpub.com/stocktrading2victory)
 
