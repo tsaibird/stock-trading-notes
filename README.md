@@ -1,6 +1,6 @@
 # stock-trading-notes
 
-這裡有《股票投機筆記精華》電子書所提供的檔案。
+這裡有《股票投機筆記精華》電子書所提供的檔案（放在 [downloads](https://github.com/tsaibird/stock-trading-notes/tree/master/downloads) 子目錄下）。
 
 你可以在下列線上書店購買這本電子書：
 
